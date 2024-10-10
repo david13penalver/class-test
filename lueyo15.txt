@@ -1,0 +1,70 @@
+Tengo que cambiar algo, siento las molestias
+
+
+* 9bf34b5 - (hace 2 minutos) delete adios - Shengye (origin/sheng/12/feat)
+| *   b1402ca - (hace 2 minutos) Merge remote-tracking branch 'refs/remotes/origin/develop' into develop - maularove (HEAD -> lueyo/15, origin/develop, develop)
+| |\  
+| | *   b863064 - (hace 4 minutos) Merge remote-tracking branch 'refs/remotes/origin/develop' into develop - Héctor Cervera Sáez
+| | |\  
+| | | * 12ad36b - (hace 4 minutos) feat(2):Javi 2 - Javi (origin/release, origin/main, origin/HEAD)
+| | * | ac7a293 - (hace 4 minutos) feat(#13):archivo añadido - Héctor Cervera Sáez
+| | |/  
+| * / 20fdc60 - (hace 3 minutos) feat(#14) - maularove
+| |/  
+| * 38d447a - (hace 7 minutos) feat(#11):specific things - David Peñalver
+|/  
+* 4e255b5 - (hace 7 minutos) feat(#7):ArchivoAdrian - Adri (release, main)
+* 6c98eeb - (hace 10 minutos) feat(#4): commit lueyo.txt - lueyo31
+* 574aab3 - (hace 10 minutos) feat(#5): Cambios de nazar - Nazar
+| * ca9f1db - (hace 8 minutos) Tercer commit de Isabel - Isabel (origin/isabel/3)
+| * 16869af - (hace 9 minutos) Segundo commit de Isabel - Isabel
+| * 5ef6a28 - (hace 12 minutos) Primer commit de Isabel - Isabel
+| | * b635b0c - (hace 9 minutos) Modificar fichero angela - Angela Hermosilla del Rio (origin/angela/feature/1)
+| | * c932d39 - (hace 9 minutos) Crear fichero angela - Angela Hermosilla del Rio
+| |/  
+|/|   
+* | 7cef44e - (hace 14 minutos) feat(#6): Hello World - Shengye
+|/  
+* f74419d - (hace 18 minutos) feat(#1):Commit Javi - Javi
+| * 017f25a - (hace 9 minutos) feat(#9):Added file3.txt - Richard Yuste (origin/richard/9)
+| * 4f6bbf6 - (hace 10 minutos) feat(#9):Added file2.txt - Richard Yuste
+| * 7e8cb70 - (hace 13 minutos) feat(#9):Added file1.txt - Richard Yuste
+|/  
+| * 78314ae - (hace 11 minutos) ArchivoAdrian corregido - Adri (origin/adrian/7)
+| * c50878c - (hace 12 minutos) ArchivoAdrian modificado - Adri
+| * f9449b7 - (hace 13 minutos) ArchivoAdrian añadido - Adri
+|/  
+| * 6f78461 - (hace 12 minutos) Esto es otro commit - Ruben Valero Policarpo (origin/ruben/feature/2)
+| * 5bb1702 - (hace 14 minutos) He añadiso una linea - Ruben Valero Policarpo
+| * eb91854 - (hace 15 minutos) Hola soy ruben - Ruben Valero Policarpo
+|/  
+| * 1f187f8 - (hace 12 minutos) rihard no hizo nada malo - lueyo31 (lueyo/4)
+| * ef204c0 - (hace 13 minutos) cristo - lueyo31
+| * bccaac0 - (hace 16 minutos) ls added - lueyo31
+|/  
+| * 5707776 - (hace 13 minutos) Add marcos/file3.txt - marcosalcaraz1 (origin/marcos/7)
+| * b212c27 - (hace 15 minutos) Add marcos/File2.txt - marcosalcaraz1
+| * d637899 - (hace 16 minutos) Add marcos/File1.txt - marcosalcaraz1
+|/  
+| * f1931da - (hace 15 minutos) fumigación - Héctor Cervera Sáez (origin/HectorFeature)
+|/  
+| * f44a52b - (hace 16 minutos) Tercer cambio por nazar - Nazar (origin/nazar/5)
+| * f19b4d1 - (hace 17 minutos) Segundo cambio por Nazar - Nazar
+| * 881936c - (hace 17 minutos) Primer micro-cambio de Nazar - Nazar
+|/  
+* 289aa39 - (hace 64 minutos) Create README.md - David Peñalver
+total 44
+drwxrwxr-x  3 toni toni 4096 oct 10 11:49 .
+drwxrwxr-x 10 toni toni 4096 oct 10 11:28 ..
+-rw-rw-r--  1 toni toni    0 oct 10 11:44 adios
+-rw-rw-r--  1 toni toni   30 oct 10 11:44 archivoAdrianC.txt
+-rw-rw-r--  1 toni toni   12 oct 10 11:47 feat11.txt
+drwxrwxr-x  8 toni toni 4096 oct 10 11:49 .git
+-rw-rw-r--  1 toni toni    0 oct 10 11:44 hola
+-rw-rw-r--  1 toni toni    0 oct 10 11:44 HolaMundo
+-rw-rw-r--  1 toni toni  133 oct 10 11:47 javi.txt
+-rw-rw-r--  1 toni toni 3029 oct 10 11:49 lueyo15.txt
+-rw-rw-r--  1 toni toni   37 oct 10 11:44 lueyo.txt
+-rw-rw-r--  1 toni toni   47 oct 10 11:47 mauro.txt
+-rw-rw-r--  1 toni toni   12 oct 10 11:47 Nos_fumigan_con_aviones.txt
+-rw-rw-r--  1 toni toni   91 oct 10 11:44 README.md
